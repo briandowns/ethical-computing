@@ -2,6 +2,10 @@
 
 This repository servers as a common place to identify common practices and guides in ethical computing. 
 
+## Codes of Ethics
+
+* [ACM Software Engineering Code of Ethics and Professional Practice](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
+
 ## Articles
 
 * [Ten Commandments of Ethical Computing](https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics)
